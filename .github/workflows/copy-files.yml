@@ -1,6 +1,9 @@
 name: Copy file to different repo
 
-on: push
+on: 
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
   copy-file:
