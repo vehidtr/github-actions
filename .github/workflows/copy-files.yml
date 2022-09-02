@@ -3,7 +3,7 @@ name: Copy file to different repo
 on: 
   push:
     paths:
-      - 'README.md'
+      - 'XIPs/xip-0-purpose-process.md'
 
 jobs:
   copy-file:
