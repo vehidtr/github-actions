@@ -6,7 +6,7 @@
 
 ![x-red-sm](https://user-images.githubusercontent.com/510695/163488403-1fb37e86-c673-4b48-954e-8460ae4d4b05.png)
 
-**XMTP client SDK for JavaScript applications**
+**XMTP client SDK for JavaScript applications testing**
 
 `xmtp-js` provides a TypeScript implementation of the XMTP client protocol for use with JavaScript and React applications.
 
